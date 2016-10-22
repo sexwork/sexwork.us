@@ -1,8 +1,6 @@
 Welcome to SexWork.us github page!
 ==================================
 
-Purpose
--------
 All changes to SexWork.us_ is made through github, which is a site that
 allows everyone to change and edit the website. just click on the 'edit' link.
 

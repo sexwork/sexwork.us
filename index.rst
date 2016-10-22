@@ -15,6 +15,8 @@ Welcome to SexWork.us!
 .. _SexWork.us: https://www.sexwork.us/
 .. _issue: https://github.com/sexwork/sexwork.us/issues
 .. _github: https://github.com/sexwork/sexwork.us
+.. _pdf: https://readthedocs.org/projects/sexworkus/downloads/pdf/latest/
+.. _epub: https://readthedocs.org/projects/sexworkus/downloads/epub/latest/
 
 Contents:
 
