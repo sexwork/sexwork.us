@@ -21,9 +21,13 @@ Welcome to SexWork.us!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    about
+   health/health
+   ally/index
+   science/index
+   definitions
 
 
 Indices and tables
