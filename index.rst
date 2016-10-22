@@ -7,10 +7,12 @@ Welcome to SexWork.us!
 ======================
 
 `SexWork.us`_ is aiming to be a reference guide all about sex work.
- everything you want to know about sex work should be here, but we are
+
+ Everything you wanted to know about sex work should be here, eventually, but we are
  still pretty new, so if there is something you want to see right away,
- you can file an `issue`_ with us on `github`_ and allows anyone to make/request changes!
- This reference guide is made for both sex workers and the general public.
+ you can file an `issue`_ with us on `github`_ which also allows anyone 
+ to make/request changes! This reference guide is made for both sex workers
+  and the general public.
 
 .. _SexWork.us: https://www.sexwork.us/
 .. _issue: https://github.com/sexwork/sexwork.us/issues
