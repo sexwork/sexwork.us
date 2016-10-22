@@ -11,7 +11,7 @@ It is difficult to estimate the number of persons who currently work, or have ev
 
 According to a study of New York adolescents in the sex trade, nearly half of adolescents are male or transgender. Only 8% were coerced into entering the sex industry. [2]_
 
-Cost of arresting prostutes:
+Cost of arresting prostitutes:
 ----------------------------
 
 From a report in the 1980s, average arrest, court and incarceration costs amount to nearly $ 2,000.00 per arrest. Cities spend an average of 7.5 million dollars on prostitution control every year, ranging from 1 million dollars (Memphis) to 23 million dollars (New York). [3]_
@@ -19,7 +19,8 @@ From a report in the 1980s, average arrest, court and incarceration costs amount
 Should Prostitution be legal?
 -----------------------------
 
-All the current contributors resoundingly say YES, but procon.org has a fairly large site dedicated to the topic [4]_
+All the current contributors resoundingly say YES, but procon.org has a fairly large site dedicated to the topic
+and tries to show both perspectives. [4]_
 
 
 	.. [1]  Priscilla Alexander, Prostitution: A Difficult Issue For Feminists, (in Frederique Delacoste and Priscilla Alexander, Sex Work: Writings by Women in the Sex Industry, San Francisco: Cleis Press, 1987.)
