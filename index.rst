@@ -3,14 +3,24 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to SexWork.us's documentation!
-======================================
+Welcome to SexWork.us!
+======================
+
+`SexWork.us` is aiming to be a reference guide all about sex work.
+ everything you want to know about sex work should be here, but we are
+ stil pretty new, so if there is something you want to see right away,
+ you can file an `issue` with us on `github` and allows anyone to make/request changes!
+ This reference guide is made for both sex workers and the general public.
+
+.. _SexWork.us: https://www.sexwork.us/
+.. _issue: https://github.com/sexwork/sexwork.us/issues
+.. _github: https://github.com/sexwork/sexwork.us
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
-
+   about
 
 
 Indices and tables
@@ -19,5 +29,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
-:github_url:
