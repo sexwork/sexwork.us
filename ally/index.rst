@@ -2,6 +2,7 @@ Being an ally to a sex worker
 =============================
 
 Being an ally is hard work, but it's good, important work.
+
 .. toctree::
    :maxdepth: 1
 
