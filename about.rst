@@ -2,14 +2,17 @@
 .. _about:
 
 About sexwork.us
-============================
+================
 
-This web site aims to be a "bible" around sex work, a one-stop shop 
+This web site aims to be a referecen guide about sex work, a one-stop shop 
 for everything you want to know about sex work. Both for sex workers
-(which most of the contributors are) and for the normal public.
+(which most of the contributors are) and for the normal public. We are currently
+mostly focused on sex work in the USA, because that is where the current contributors
+are from, but we welcome contributions to add other regional/country specific perspectives.
 
 Contributions
 --------------
+
 We welcome contributions! All contributions are done through our Github_ page.
 You can edit directly from the website by creating an account(or logging in),
 selecting a file, and then clicking the 'edit' button (looks like a pencil).
