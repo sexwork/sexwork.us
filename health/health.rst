@@ -153,10 +153,6 @@ WATERSPORTS(urine):
 
 Urine is mostly sterile. It's recently been proven to not be sterile in some circumstances however.  That means it's possible a bacteria can be transferred with the urine.  It's probably safe to get in your mouth and drink/swallow it, however it's not recommended. For outdoor sex workers, it's probably better to be the one pissing(urinating) on the customer, as it stinks, and it will be hard to clean off of you and attract another customer.
 
-About:
------
-This guide was mostly written by a trans* sex worker who has done outdoor sex work. Lots of information was taken from Berkeley NEED and L. Synn Stern.
-
 Resources:
 ----------
 

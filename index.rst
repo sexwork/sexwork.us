@@ -21,9 +21,10 @@ unfortunately, it's not treated like just another job, even if it should be.
 Contents:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    
    about
+   contributing
    health/health
    ally/index
    science/index
