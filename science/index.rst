@@ -4,6 +4,12 @@ The Science of Sex Work
 
 This is where we will put all the facts, statistics and research that has been done around sex work.
 
+.. toctree::
+	:maxdepth: 1
+
+	politics
+	rhodeisland
+
 How many prostitutes are there:
 ------------------------------
 
