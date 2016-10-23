@@ -6,19 +6,17 @@
 Welcome to SexWork.us!
 ======================
 
-`SexWork.us`_ is aiming to be a reference guide all about sex work.
+`SexWork.us`_ is aiming to be a reference guide all about `sex work`_.
 
- Everything you wanted to know about sex work should be here, eventually, but we are
- still pretty new, so if there is something you want to see right away,
- you can file an `issue`_ with us on `github`_ which also allows anyone 
- to make/request changes! This reference guide is made for both sex workers
-  and the general public.
+Wait, what is Sex Work? Well, when you get down to it, it's just a form of work
+involving sex, or more specifically, sexuality (see a definition of `sex work`_).
+But if it's just another job, do we really need an entire website devoted to it?
+Well, ideally, definitely not! Unfortunately in many cultures and countries, sex work
+is treated as less than a job, many aspects of the work are illegal, etc.
 
-.. _SexWork.us: https://www.sexwork.us/
-.. _issue: https://github.com/sexwork/sexwork.us/issues
-.. _github: https://github.com/sexwork/sexwork.us
-.. _pdf: https://readthedocs.org/projects/sexworkus/downloads/pdf/latest/
-.. _epub: https://readthedocs.org/projects/sexworkus/downloads/epub/latest/
+So now we know why this site exists, it's to cover all those pesky details because,
+unfortunately, it's not treated like just another job, even if it should be.
+
 
 Contents:
 
@@ -31,10 +29,13 @@ Contents:
    science/index
    definitions
 
+If there is something you think is wrong or something missing about this site, you can
+help us fix it by submitting an `issue`_ with us on `github`_ which also allows anyone 
+ to make/request changes! Please feel free!
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. _SexWork.us: https://www.sexwork.us/
+.. _issue: https://github.com/sexwork/sexwork.us/issues
+.. _github: https://github.com/sexwork/sexwork.us
+.. _pdf: https://readthedocs.org/projects/sexworkus/downloads/pdf/latest/
+.. _epub: https://readthedocs.org/projects/sexworkus/downloads/epub/latest/
+.. _sex work: :ref:`definitions#Sex Work`

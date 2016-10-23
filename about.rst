@@ -4,7 +4,7 @@
 About sexwork.us
 ================
 
-This web site aims to be a referecen guide about sex work, a one-stop shop 
+This web site aims to be a reference guide about sex work, a one-stop shop 
 for everything you want to know about sex work. Both for sex workers
 (which most of the contributors are) and for the normal public. We are currently
 mostly focused on sex work in the USA, because that is where the current contributors
