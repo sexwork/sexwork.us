@@ -19,7 +19,8 @@ make suggestions, complaints, praise, etc. by filing an Issue_.
 Guidelines for contributions
 ----------------------------
 
-* Citations should be written in MLA format.
+* Citations should be written in MLA format (this `page`_ helps you).
+* All facts should be cited against their original paper if possible.
 
 .. _primer: http://docutils.sourceforge.net/docs/user/rst/quickstart.html
 .. _reStructuredText: http://www.sphinx-doc.org/en/1.4.8/rest.html#rst-primer
@@ -28,3 +29,4 @@ Guidelines for contributions
 .. _SexWork.us: https://www.sexwork.us
 .. _Github: https://github.com/sexwork/sexwork.us
 .. _Issue: https://github.com/sexwork/sexwork.us/issues
+.. _page: http://www.citationmachine.net/mla/cite-a-website
