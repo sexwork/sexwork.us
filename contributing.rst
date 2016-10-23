@@ -16,6 +16,11 @@ Github_ also keeps our entire history of the project and who made changes, when.
 It's very handy!  If you don't feel like editing the content directly, you can
 make suggestions, complaints, praise, etc. by filing an Issue_.
 
+Any contributions you make will be copyrighted by you, but will be released
+under an `MIT license`_, which basically means anyone can do whatever they
+want except claim they wrote the content. They MUST give contribution credit to
+you.
+
 Guidelines for contributions
 ----------------------------
 
@@ -29,4 +34,5 @@ Guidelines for contributions
 .. _SexWork.us: https://www.sexwork.us
 .. _Github: https://github.com/sexwork/sexwork.us
 .. _Issue: https://github.com/sexwork/sexwork.us/issues
-.. _page: http://www.citationmachine.net/mla/cite-a-website
+.. _page: http://www.citationmachine.net/mla8/cite-a-website
+-- _MIT license: https://opensource.org/licenses/MIT

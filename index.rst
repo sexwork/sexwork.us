@@ -28,6 +28,7 @@ Contents:
    health/health
    ally/index
    science/index
+   stories/index
    definitions
 
 If there is something you think is wrong or something missing about this site, you can

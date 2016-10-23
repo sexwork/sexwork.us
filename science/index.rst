@@ -7,6 +7,7 @@ This is where we will put all the facts, statistics and research that has been d
 .. toctree::
 	:maxdepth: 1
 
+	studies
 	politics
 	rhodeisland
 
