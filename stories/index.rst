@@ -7,10 +7,7 @@ here.
 Stories
 -------
 
-.. toctree::
-    :maxdepth: 1
-
-    tara
+Care to share a story here? see :ref:`contributing`.
 
 
 Books
