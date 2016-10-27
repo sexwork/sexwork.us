@@ -8,6 +8,6 @@ Sex Workers were free to work from home, hotels or for agencies or spas. The Rho
 
 More information about Rhode Island can be found on a reason.com post `here`_
 
-.. [NBER1] Cunningham, Scott, and Manisha Shah. “Decriminalizing Indoor Prostitution: Implications for Sexual Violence and Public Health.” 2014, doi:10.3386/w20281. <http://www.nber.org/papers/w20281.pdf>`_.
+.. [NBER1] Cunningham, Scott, and Manisha Shah. “Decriminalizing Indoor Prostitution: Implications for Sexual Violence and Public Health.” 2014, doi:10.3386/w20281. `NBER <http://www.nber.org/papers/w20281.pdf>`_.
 
 .. _here: http://reason.com/blog/2014/07/15/fight-rape-with-legal-prostitution
