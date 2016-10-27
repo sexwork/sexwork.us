@@ -12,10 +12,10 @@ Care to share a story here? see :ref:`contributing`.
 Books
 -----
 
-Lots of books can also be found on GoodReads `here <https://www.goodreads.com/genres/sex-work>`_
+We love books by sex workers, check some of them out:
 
 Amanda Brooks:
-    Her books are about how to do high-end escort work.
+    Her books are about how to do escort work, mostly high-end.
 	* BOOK 1: `THE FOUNDATION BASIC MENTAL, EMOTIONAL AND PHYSICAL CONSIDERATIONS IN ESCORT WORK <http://www.theinternetescortshandbook.com/escort-books/become-escort/>`_
 	* BOOK 2: `ADVERTISING AND MARKETING SUCCESSFULLY CREATING AND SELLING YOUR IMAGE ONLINE <http://www.theinternetescortshandbook.com/escort-books/escort-advertising-marketing/>`_
 
@@ -44,3 +44,4 @@ Sarah Katherine Lewis:
     :height: 50px
     :width: 20px
 
+Lots of books can also be found on GoodReads `here <https://www.goodreads.com/genres/sex-work>`_
