@@ -26,13 +26,13 @@ Contents:
    :maxdepth: 2
 
    about
-   contributing
    health/health
    ally/index
    privacy/index
    science/index
    stories/index
    definitions
+   contributing
 
 If there is something you think is wrong or something missing about this site,
 you can help us fix it by submitting an `issue`_ with us on `github`_ which
