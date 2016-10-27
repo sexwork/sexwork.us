@@ -9,6 +9,7 @@ for everything you want to know about sex work. Both for sex workers
 (which most of the contributors are) and for the normal public. We are currently
 mostly focused on sex work in the USA, because that is where the current contributors
 are from, but we welcome contributions to add other regional/country specific perspectives.
+We also welcome translations to other languages, please contact us via github for help getting started.
 
 Contributions
 --------------
