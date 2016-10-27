@@ -1,6 +1,8 @@
 Politics
 ========
 
+.. #TODO clean this up, make it less opinionated.
+
 The politics around sex work is a complicated one. Let's talk about it 
 through history. When the USA was first getting going, sex work was 
 totally legal, and still is federally. The only federal laws around 

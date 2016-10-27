@@ -9,7 +9,6 @@ Stories
 
 Care to share a story here? see :ref:`contributing`.
 
-
 Books
 -----
 

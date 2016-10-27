@@ -29,6 +29,7 @@ Contents:
    contributing
    health/health
    ally/index
+   privacy/index
    science/index
    stories/index
    definitions
