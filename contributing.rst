@@ -24,6 +24,10 @@ under an `MIT license`_, which basically means anyone can do whatever they
 want except claim they wrote the content. They MUST give contribution credit to
 you.
 
+Changelog
+---------
+a list of changes is available `here <https://github.com/sexwork/sexwork.us/commits/master>`_
+
 Guidelines for contributions
 ----------------------------
 

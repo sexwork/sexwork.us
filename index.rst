@@ -15,6 +15,17 @@ devoted to it?  Well, ideally, definitely not! Unfortunately in many cultures
 and countries, sex work is treated as less than a job, many aspects of the work
 are illegal, etc.
 
+We have one more reason this site exists, to quote Martin Luther King, Jr.
+
+    In any nonviolent campaign there are four basic steps:
+    collection of the facts to determine whether injustices exist;
+    negotiation; self-purification; and direct action. [MLK1]_
+
+This site aims to be an easy to use, reference of the first step of collecting
+facts and showing the injustice done to sex workers, while also
+being directly useful to everyday concerns of sex workers around privacy,
+safety, etc.
+
 So now we know why this site exists, it's to cover all those pesky details
 because, unfortunately, it's not treated like just another job, even if it
 should be.
@@ -44,3 +55,4 @@ also allows anyone to make/request changes! Please feel free!
 .. _pdf: https://readthedocs.org/projects/sexworkus/downloads/pdf/latest/
 .. _epub: https://readthedocs.org/projects/sexworkus/downloads/epub/latest/
 .. _sex work: :ref:`definitions#Sex Work`
+.. [MLK1] King, Martin Luther. “Letter from Birmingham Jail.” Letter from Birmingham Jail, `Bates College <http://abacus.bates.edu/admin/offices/dos/mlk/letter.html>`_.
