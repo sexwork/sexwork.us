@@ -3,14 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to SexWork.us!
-======================
+.. _welcome:
 
-`SexWork.us`_ is aiming to be a reference guide all about `sex work`_.
+Welcome to SexWork.us!
+=======================
+
+`SexWork.us`_ is aiming to be a reference guide all about :term:`sex work`.
 
 Wait, what is Sex Work? Well, when you get down to it, it's just a form of work
-involving sex, or more specifically, sexuality (see a definition of `sex
-work`_).  But if it's just another job, do we really need an entire website
+involving sex, or more specifically, sexuality (see a definition of :term:`sex
+work`).  But if it's just another job, do we really need an entire website
 devoted to it?  Well, ideally, definitely not! Unfortunately in many cultures
 and countries, sex work is treated as less than a job, many aspects of the work
 are illegal, etc.
@@ -32,6 +34,7 @@ should be.
 
 
 Contents:
+==========
 
 .. toctree::
    :maxdepth: 2
@@ -54,5 +57,4 @@ also allows anyone to make/request changes! Please feel free!
 .. _github: https://github.com/sexwork/sexwork.us
 .. _pdf: https://readthedocs.org/projects/sexworkus/downloads/pdf/latest/
 .. _epub: https://readthedocs.org/projects/sexworkus/downloads/epub/latest/
-.. _sex work: :ref:`definitions#Sex Work`
 .. [MLK1] King, Martin Luther. “Letter from Birmingham Jail.” Letter from Birmingham Jail, `Bates College <http://abacus.bates.edu/admin/offices/dos/mlk/letter.html>`_.

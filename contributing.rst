@@ -26,7 +26,8 @@ you.
 
 Changelog
 ---------
-a list of changes is available `here <https://github.com/sexwork/sexwork.us/commits/master>`_
+`a list of changes is available <https://github.com/sexwork/sexwork.us/commits/master>`_
+by contributor.
 
 Guidelines for contributions
 ----------------------------
@@ -49,8 +50,8 @@ changes you are sure will show up correctly, but for larger things, it's great
 to be able to build the website locally, and view it in your browser, before
 pushing the changes to github.  To build locally you must first setup your
 computer with the software we use(Sphinx). Instructions to set that up are
-available `here <http://www.sphinx-doc.org/en/1.4.8/install.html>`_. Next you
-will need git, instructions are `here <https://help.github.com/articles/set-up-git/>`_
+`available <http://www.sphinx-doc.org/en/1.4.8/install.html>`_. Next you
+will need git, `instructions here <https://help.github.com/articles/set-up-git/>`_
 
 Once you have your computer setup, then you need to clone the repository, see
 the github instructions.  Then simply run make inside of the directory that

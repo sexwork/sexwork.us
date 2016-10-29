@@ -11,15 +11,17 @@ mostly focused on sex work in the USA, because that is where the current contrib
 are from, but we welcome contributions to add other regional/country specific perspectives.
 We also welcome translations to other languages, please contact us via github for help getting started.
 
+Changelog
+---------
+
+A history of changes is available `here <https://github.com/sexwork/sexwork.us/commits/master>`_
+
+
 Contributions
 --------------
 
 We welcome contributions! All contributions are done through our Github_ page.
-You can edit directly from the website by creating an account(or logging in),
-selecting a file, and then clicking the 'edit' button (looks like a pencil).
-Github_ also keeps our entire history of the project and who made changes, when.
-It's very handy!  If you don't feel like editing the content directly, you can
-make suggestions, complaints, praise, etc. by filing an Issue_.
+For more details see our contributions_ page.
 
 .. _primer: http://docutils.sourceforge.net/docs/user/rst/quickstart.html
 .. _reStructuredText: http://www.sphinx-doc.org/en/1.4.8/rest.html#rst-primer
@@ -28,3 +30,4 @@ make suggestions, complaints, praise, etc. by filing an Issue_.
 .. _SexWork.us: https://www.sexwork.us
 .. _Github: https://github.com/sexwork/sexwork.us
 .. _Issue: https://github.com/sexwork/sexwork.us/issues
+.. _contributions: :doc:`contributing`
