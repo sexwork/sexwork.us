@@ -41,6 +41,7 @@ Contents:
 
    about
    health/health
+   health/gettingout
    ally/index
    privacy/index
    science/index
