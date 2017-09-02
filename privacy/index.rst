@@ -58,7 +58,14 @@ Some sex workers do 1 or all of the above, and some do none of the above, and so
 Regardless of your choices here, be consistent with your clients, follow through with the checks, and actually verify the things given.
 Doing all of these things still won't gaurantee safety, there is always risk with every job, and sex workers have to decide their risk-level and comfort.
 
+Computer Security/Privacy
+-------------------------
+
+Security experts recommend following this `Do and do not list`_ If you want more details and a book format visit this `book`_.
+
 
 
 .. _screen: :ref:`definitions#Screening`
 .. _SWOP: http://www.swopusa.org
+.. _Do and do not list: https://techsolidarity.org/resources/basic_security.htm
+.. _book: http://www.tcij.org/resources/handbooks/infosec

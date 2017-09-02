@@ -228,4 +228,7 @@ dummy:
 .PHONY: open
 open: html
 	open _build/html/index.html
+.PHONY: push
+push: html
+	rsync -rv _build/html/* zie@138.68.40.166:/var/www/sexwork.us/
 .DEFAULT_GOAL := html
